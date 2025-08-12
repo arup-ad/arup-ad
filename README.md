@@ -1,4 +1,4 @@
-<h1 align="center" color="blue">Hi 👋, I'm Arup</h1>
+<h1 style="color💙">Hi 👋, I'm Arup</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="200" height="200" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid&w=740&q=80">
 
