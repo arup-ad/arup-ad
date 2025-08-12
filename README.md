@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arup</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center" style="color: blue; animation: fadeIn 2s ease-in-out; display: inline-block;">
+  A passionate frontend developer from India
+</h3>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+
 <img align="right" alt="Coding" width="200" height="200" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid&w=740&q=80">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arup-ad&label=Profile%20views&color=0e75b6&style=flat" alt="arup-ad" /> </p>
 
